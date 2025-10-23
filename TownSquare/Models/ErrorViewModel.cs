@@ -1,4 +1,4 @@
-namespace WebApplication1.Models;
+namespace TownSquare.Models;
 
 public class ErrorViewModel
 {
